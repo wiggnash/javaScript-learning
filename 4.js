@@ -10,14 +10,14 @@
 //     console.log(i);
 // }
 
-//print odd numbers from reverse
+// ======== print odd numbers from reverse =============
 // for(let i=50;i >=1; i--){
 //     if(i % 2 != 0){
 //         console.log(i);
 //     }
 // }
 
-//both these for loops gives the same answer
+// =========== both these for loops gives the same answer =========
 // for(let i = 1; i <= 3;i++){
 //     console.log(i);
 // }
